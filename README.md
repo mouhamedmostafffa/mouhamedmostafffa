@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mouhamedmostafffa&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mouhamedmostafffa&base=20181=Profile%20Views&color=6D28D9&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/mouhamedmostafffa?label=Followers&style=for-the-badge&color=6D28D9&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/stars/mouhamedmostafffa?label=Stars&style=for-the-badge&color=6D28D9&labelColor=1a1b27"/>
 
