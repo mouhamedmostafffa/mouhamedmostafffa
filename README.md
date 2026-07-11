@@ -338,7 +338,7 @@ Taking on independent development work — including building and selling a comm
 <br/>
 
 
-### 🐍 Contribution Snake
+### 🐍 Snake
 
 <div align="center">
 
