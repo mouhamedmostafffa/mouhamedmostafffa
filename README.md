@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=TOJI&fontSize=72&fontColor=B794F6&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=D6BCFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?vtype=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=TOJI&fontSize=72&fontColor=B794F6&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=D6BCFA" width="100%"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mouhamedmostafffa&base=20181=Profile%20Views&color=6D28D9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mouhamedmostafffa&base=20181Profile%20Views&color=6D28D9&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/mouhamedmostafffa?label=Followers&style=for-the-badge&color=6D28D9&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/stars/mouhamedmostafffa?label=Stars&style=for-the-badge&color=6D28D9&labelColor=1a1b27"/>
 
