@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?vtype=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=TOJI&fontSize=72&fontColor=B794F6&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=D6BCFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F0C29,50:302B63,100:24243E&text=TOJI&reversal=false&animation=fadeIn&fontSize=72&fontColor=B794F6&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18"/>
 
 <br/>
 
@@ -337,15 +337,6 @@ Taking on independent development work — including building and selling a comm
 
 <br/>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mouhamedmostafffa&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-
-</div>
-
-<br/>
 
 ### 🐍 Contribution Snake
 
