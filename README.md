@@ -355,14 +355,6 @@ Taking on independent development work — including building and selling a comm
 
 </div>
 
-> ⚙️ **Setup note:** the snake animation above renders from a GitHub Actions workflow that must be added to your `mouhamedmostafffa/mouhamedmostafffa` repository. See the setup steps at the bottom of this file.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/>
-
 ## 🎯 Current Focus
 
 ```yaml
